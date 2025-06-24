@@ -1,17 +1,20 @@
 ## Hi there 👋, I'm Tiansheng(Neil) Wen.
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=neilwen987&count_private=true&show_icon=true&theme=vue-light"/>][my_github]
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilwen987&langs_count=8&layout=compact&count_private=true&theme=vue-light"/>][my_github]
+- 🤔 I’m looking for Phd position in 26Fall. Here's my home page: https://neilwen987.github.io/
+---
+
 <!--
 **neilwen987/neilwen987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=neilwen987&count_private=true&show_icon=true&theme=vue-light"/>][my_github]
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilwen987&langs_count=8&layout=compact&count_private=true&theme=vue-light"/>][my_github]
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...

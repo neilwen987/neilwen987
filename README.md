@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Tiansheng(Neil) Wen.
 
-- 🤔 I’m looking for Phd position in 26Fall. Here's my home page: https://neilwen987.github.io/
+- 🤔 I’m an incoming PhD student at Georgia Institute of Technology. Here's my home page: https://neilwen987.github.io/
 ---
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=neilwen987&count_private=true&show_icon=true&theme=vue-light"/>][my_github]
